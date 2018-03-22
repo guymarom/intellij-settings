@@ -23,6 +23,13 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="org.json4s.JsonAST.JString" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   </codeStyleSettings>
