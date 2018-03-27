@@ -34,7 +34,6 @@
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="Scala">
-    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
