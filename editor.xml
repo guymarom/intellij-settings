@@ -9,7 +9,7 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern pattern="\btodog\b.*" />
+    <pattern pattern="\btodo\sg\b.*" />
     <filter name="todog">
       <pattern index="2" />
     </filter>
