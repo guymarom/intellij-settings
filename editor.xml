@@ -5,6 +5,7 @@
         <entry key="Scala" value="true" />
       </map>
     </option>
+    <option name="USE_SOFT_WRAPS" value="" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
