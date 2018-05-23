@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="ExternalSystem.RefreshAllProjects">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="MemoryView.JumpToTypeSource">
     <keyboard-shortcut first-keystroke="shift ctrl meta p" />
   </action>
