@@ -20,5 +20,6 @@
     <mask>*.scala</mask>
     <mask>reference.conf</mask>
     <mask>BUILD</mask>
+    <mask>reference.*</mask>
   </component>
 </application>
