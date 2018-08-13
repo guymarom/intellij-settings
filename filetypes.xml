@@ -5,6 +5,7 @@
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="requests" type="PLAIN_TEXT" />
       <mapping pattern="pants" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
