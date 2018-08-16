@@ -46,20 +46,17 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 2.7 (coderbot-akka-http) interpreter library">
+    <library name="Python 2.7 (.venv) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-darwin" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-mac" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/Sphinx-1.5.6-py2.7.egg" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/aeosa" />
-        <root url="file://$USER_HOME$/code/sb/coderbot/sdk/python" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.3/python_stubs/-48856178" />
+        <root url="file://$USER_HOME$/code/sb/coderbot-pants/.venv/lib/python2.7" />
+        <root url="file://$USER_HOME$/code/sb/coderbot-pants/.venv/lib/python2.7/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/code/sb/coderbot-pants/.venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/340079284" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -68,18 +65,15 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-darwin" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-mac" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/Sphinx-1.5.6-py2.7.egg" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/aeosa" />
-        <root url="file://$USER_HOME$/code/sb/coderbot/sdk/python" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.3/python_stubs/-48856178" />
+        <root url="file://$USER_HOME$/code/sb/coderbot-pants/.venv/lib/python2.7" />
+        <root url="file://$USER_HOME$/code/sb/coderbot-pants/.venv/lib/python2.7/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/code/sb/coderbot-pants/.venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/340079284" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
