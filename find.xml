@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../runtime/src/main/scala/com/sparkbeyond/runtime/pickle [runtime]'" />
-    <option name="defaultScopeName" value="Directory '.../runtime/src/main/scala/com/sparkbeyond/runtime/pickle [runtime]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../runtime/src/main/scala/com/sparkbeyond/runtime/pickle [runtime]'" />
+    <option name="customScope" value="File '.../ingest/src/main/scala/com/sparkbeyond/runtime/feature/types/DefaultValuer.scala [ingest]'" />
+    <option name="defaultScopeName" value="File '.../ingest/src/main/scala/com/sparkbeyond/runtime/feature/types/DefaultValuer.scala [ingest]'" />
+    <option name="SEARCH_SCOPE" value="File '.../ingest/src/main/scala/com/sparkbeyond/runtime/feature/types/DefaultValuer.scala [ingest]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
