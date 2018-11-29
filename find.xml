@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js,*.ts" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,8 +19,8 @@
     <mask>register.py</mask>
     <mask>*.ts</mask>
     <mask>BUILD</mask>
-    <mask>*.js,*.ts</mask>
     <mask>*.scala</mask>
     <mask>reference.conf</mask>
+    <mask>*.js,*.ts</mask>
   </component>
 </application>
