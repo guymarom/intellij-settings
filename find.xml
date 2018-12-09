@@ -18,8 +18,8 @@
     <mask>register.py</mask>
     <mask>*.ts</mask>
     <mask>BUILD</mask>
-    <mask>reference.conf</mask>
     <mask>*.js,*.ts</mask>
     <mask>*.scala</mask>
+    <mask>reference.conf</mask>
   </component>
 </application>
