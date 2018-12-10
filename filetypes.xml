@@ -1,14 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.cache;.git;.hg;.pants.d;.pids;.svn;.venv;CVS;__pycache__;_svn;dist;node_modules;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.cache;.git;.hg;.pants.d;.pids;.svn;.venv;CVS;__pycache__;_svn;node_modules;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="t" type="PLAIN_TEXT" />
-      <mapping pattern="requests" type="PLAIN_TEXT" />
       <mapping pattern="restapi" type="PLAIN_TEXT" />
-      <mapping pattern="pants" type="PLAIN_TEXT" />
+      <mapping pattern="requests" type="PLAIN_TEXT" />
       <mapping pattern="HasDistance_trait_functionstxt" type="PLAIN_TEXT" />
+      <mapping pattern="t" type="PLAIN_TEXT" />
+      <mapping pattern="pants" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping pattern="BUILD" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
@@ -19,7 +20,6 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="BUILD" type="Python" />
       <mapping pattern="Counter" type="Elm file" />
     </extensionMap>
   </component>
