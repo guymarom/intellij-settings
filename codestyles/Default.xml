@@ -29,12 +29,16 @@
         <option value="org.json4s.JsonAST.JString" />
       </array>
     </option>
+    <option name="INDENT_BRACED_FUNCTION_ARGS" value="false" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="Scala">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
