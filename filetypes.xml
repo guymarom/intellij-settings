@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="com" type="HTML" />
+      <mapping pattern=".Python" type="PLAIN_TEXT" />
       <mapping pattern="pants" type="PLAIN_TEXT" />
       <mapping pattern="HasDistance_trait_functionstxt" type="PLAIN_TEXT" />
       <mapping pattern="restapi" type="PLAIN_TEXT" />
