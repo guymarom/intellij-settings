@@ -1,0 +1,42 @@
+<application>
+  <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/image/base/centos.git" />
+          <option name="name" value="CentOS" />
+          <option name="namespace" value="Base" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/image/base/centos.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/image/builder/rpm.git" />
+          <option name="name" value="RPM" />
+          <option name="namespace" value="Builder" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/image/builder/rpm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/service/auth.git" />
+          <option name="name" value="Auth" />
+          <option name="namespace" value="Service" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/service/auth.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/coderbot.git" />
+          <option name="name" value="Coderbot" />
+          <option name="namespace" value="SparkBeyond" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/coderbot.git" />
+        </ProjectDto>
+      </list>
+    </option>
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="hJTFCb6JUkzV-c2_kup1" />
+          <option name="apiUrl" value="https://gitlab.com" />
+          <option name="preferredConnection" value="HTTPS" />
+          <option name="repositoryUrl" value="https://gitlab.com/sparkbeyond/service/auth" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
