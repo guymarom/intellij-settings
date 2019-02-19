@@ -38,8 +38,5 @@
   <codeStyleSettings language="Scala">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
