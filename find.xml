@@ -21,9 +21,9 @@
     <mask>*.ts</mask>
     <mask>BUILD</mask>
     <mask>*.js,*.ts</mask>
-    <mask>reference.conf</mask>
     <mask>*.sql</mask>
     <mask>*.scala</mask>
     <mask>*.r</mask>
+    <mask>reference.conf</mask>
   </component>
 </application>
