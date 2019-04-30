@@ -8,6 +8,7 @@
       <mapping pattern=".Python" type="PLAIN_TEXT" />
       <mapping pattern="pants" type="PLAIN_TEXT" />
       <mapping pattern="HasDistance_trait_functionstxt" type="PLAIN_TEXT" />
+      <mapping pattern=".Rhistory" type="PLAIN_TEXT" />
       <mapping pattern="restapi" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="requests" type="PLAIN_TEXT" />
