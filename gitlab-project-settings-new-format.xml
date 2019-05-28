@@ -344,6 +344,72 @@
           <option name="namespace" value="SparkBeyond" />
           <option name="sshUrl" value="git@gitlab.com:sparkbeyond/jenkins2es-build-exporter.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/image/base/centos.git" />
+          <option name="name" value="CentOS" />
+          <option name="namespace" value="Base" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/image/base/centos.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/image/builder/helm.git" />
+          <option name="name" value="Helm" />
+          <option name="namespace" value="Builder" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/image/builder/helm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/image/builder/rpm.git" />
+          <option name="name" value="RPM" />
+          <option name="namespace" value="Builder" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/image/builder/rpm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/image/builder/sbt.git" />
+          <option name="name" value="SBT" />
+          <option name="namespace" value="Builder" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/image/builder/sbt.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/image/scala.git" />
+          <option name="name" value="Scala" />
+          <option name="namespace" value="Image" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/image/scala.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/image/java/openjdk.git" />
+          <option name="name" value="OpenJDK" />
+          <option name="namespace" value="Java" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/image/java/openjdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/service/auth.git" />
+          <option name="name" value="Auth" />
+          <option name="namespace" value="Service" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/service/auth.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/service/eps.git" />
+          <option name="name" value="EPS" />
+          <option name="namespace" value="Service" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/service/eps.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/coderbot.git" />
+          <option name="name" value="Coderbot" />
+          <option name="namespace" value="SparkBeyond" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/coderbot.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/ctl.git" />
+          <option name="name" value="Ctl" />
+          <option name="namespace" value="SparkBeyond" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/ctl.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/sparkbeyond/jenkins2es-build-exporter.git" />
+          <option name="name" value="jenkins2es-build-exporter" />
+          <option name="namespace" value="SparkBeyond" />
+          <option name="sshUrl" value="git@gitlab.com:sparkbeyond/jenkins2es-build-exporter.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
