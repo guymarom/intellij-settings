@@ -17,7 +17,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>reference.*</mask>
-    <mask>*.conf</mask>
     <mask>regis</mask>
     <mask>register.py</mask>
     <mask>*.ts</mask>
@@ -27,5 +26,6 @@
     <mask>*.r</mask>
     <mask>reference.conf</mask>
     <mask>*.scala</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
