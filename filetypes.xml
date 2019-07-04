@@ -2,13 +2,13 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.cache;.git;.hg;.pants.d;.pids;.svn;CVS;__pycache__;_svn;node_modules;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="gz" type="CSV" />
       <mapping ext="com" type="HTML" />
       <mapping pattern=".Python" type="PLAIN_TEXT" />
-      <mapping pattern="pants" type="PLAIN_TEXT" />
       <mapping pattern="HasDistance_trait_functionstxt" type="PLAIN_TEXT" />
       <mapping pattern=".Rhistory" type="PLAIN_TEXT" />
+      <mapping pattern="pants" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="restapi" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="requests" type="PLAIN_TEXT" />
